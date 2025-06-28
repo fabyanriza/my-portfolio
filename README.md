@@ -1,45 +1,43 @@
-📌 Portfolio Website
-Welcome to my Portfolio Website repository!
+# 📌 Portfolio Website
 
-This repository contains the source code for my personal portfolio website, which I use to showcase my skills in Data Science and Web Development. The goal is to serve as a professional, accessible, and informative online showcase for colleagues, recruiters, or potential clients who want to learn more about what I can do.
+Welcome to my **Portfolio Website** repository!
 
-🌟 Key Features
-✅ Home page with a short bio and professional photo
-✅ Project Showcase section with descriptions and links to case studies or related repositories
-✅ Skills section (Data Science, Machine Learning, Web Development)
-✅ Contact & Social Links (LinkedIn, GitHub, Email)
-✅ Responsive design (works well on both desktop and mobile)
+This repository contains the **source code** for my **personal portfolio website**, which I use to showcase my **skills in Data Science and Web Development**. The goal is to serve as a **professional, accessible, and informative online showcase** for colleagues, recruiters, or potential clients who want to learn more about what I can do.
 
-💻 Technologies Used
-Frontend: HTML, CSS, JavaScript (or specify frameworks/libraries such as React, Next.js, etc.)
+---
 
-Styling: CSS/SCSS/Tailwind/Bootstrap (depending on the implementation)
+## 🌟 Key Features
 
-Deployment: GitHub Pages / Vercel / Netlify (mention platform if used)
+- ✅ Home page with a short bio and professional photo
+- ✅ Project Showcase with descriptions and links to case studies or repositories
+- ✅ Skills section (Data Science, Machine Learning, Web Development)
+- ✅ Contact & Social Links (LinkedIn, GitHub, Email)
+- ✅ Responsive design (works on desktop and mobile)
 
-🎯 Purpose
+---
+
+## 💻 Technologies Used
+
+- Frontend: HTML, CSS, JavaScript *(or React, Next.js, etc.)*
+- Styling: CSS/SCSS/Tailwind/Bootstrap *(as implemented)*
+- Deployment: GitHub Pages / Vercel / Netlify *(replace with actual platform if applicable)*
+
+---
+
+## 🎯 Purpose
+
 This website was built to:
 
-Showcase my Data Science projects (data analysis, machine learning, interactive visualizations, etc.)
+- Showcase my Data Science projects (data analysis, machine learning, interactive visualizations, etc.)
+- Demonstrate my Web Development skills (modern, responsive, and performant websites)
+- Provide an easy way for others to get in touch with me
 
-Demonstrate my Web Development skills (modern, responsive, and performant websites)
+---
 
-Provide an easy way for others to get in touch with me
+## 🚀 How to Run Locally
 
-🚀 How to Use (Optional)
-To run locally:
-
-git clone https://github.com/username/portfolio-website.git
-cd portfolio-website
+```bash
+git clone https://github.com/[your-username]/[your-repo-name].git
+cd [your-repo-name]
 npm install
 npm start
-
-
-📫 Contact
-Feel free to reach out:
-
-Email: yourname@email.com
-
-LinkedIn: linkedin.com/in/yourname
-
-GitHub: github.com/yourusername
